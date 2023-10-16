@@ -1,0 +1,7 @@
+sudo -i
+apt update -y
+apt install default-jdk -y
+apt install maven -y
+
+rm -rf (to delete any file)
+cd ..(to back up )
